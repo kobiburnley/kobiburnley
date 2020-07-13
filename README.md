@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://www.tapmusic.net/collage.php?user=qoby&amp;type=1month&amp;size=3x3&amp;caption=true" width="300" height="300" alt="Now playing">
 
 <!--
 **kobiburnley/kobiburnley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
